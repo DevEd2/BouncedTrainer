@@ -2,7 +2,7 @@
 Source code for Bounced +5 Trainer by Capital, originally released in September of 2020.
 
 # Requirements
-- [MinGW](http://mingw.org/) (only required if building on Windows)
+- [MinGW](http://mingw.org/) or Windows Subsystem for Linux (only required if building on Windows)
 - Xcode + command line tools (only required if building on macOS)
 - [RGBDS](https://github.com/gbdev/rgbds)
 - [BMP2CGB](https://github.com/gitendo/bmp2cgb)
