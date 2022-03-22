@@ -13,4 +13,4 @@ Source code for Bounced +5 Trainer by Capital, originally released in September 
 # Building
 1. Fetch dependencies
 2. Clone the repo
-3. Run `make`
+3. Run `make nogame`, or just `make` if you have a Bounced ROM handy.
